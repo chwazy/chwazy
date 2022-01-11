@@ -2,7 +2,6 @@
 
 - I'm a engineer in industrial computing
 - I work on projects in the field of industry
-- At the moment I am working on a research project in AR
 - I like to program... a lot !
 
 
@@ -20,4 +19,4 @@
 
 ### Check this
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-morocutti-b143b2201/)
-[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chwazy)
+[![](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=CheckiO&logoColor=white)](morocutti.ch)
