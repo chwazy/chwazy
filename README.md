@@ -19,4 +19,4 @@
 
 ### Check this
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-morocutti-b143b2201/)
-[![](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=CheckiO&logoColor=white)](morocutti.ch)
+[![](https://img.shields.io/badge/Website-ffc641?style=for-the-badge&logo=CheckiO&logoColor=black)](https://morocutti.ch)
