@@ -13,10 +13,6 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### My stats
-![chwazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwazy&theme=dark&show_icons=true&hide_border=true&hide_title=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chwazy&theme=dark&hide_border=true)
-
 ### Check this
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-morocutti-b143b2201/)
 [![](https://img.shields.io/badge/Website-ffc641?style=for-the-badge&logo=CheckiO&logoColor=black)](https://morocutti.ch)
